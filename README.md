@@ -1,9 +1,9 @@
-###PRoject setup locally
+## Project setup locally
  
-    ## Clone the Repository
+   Clone the Repository :
         `git clone https://github.com/riti12345/apertum.git`
 
-    ## install all the npm files and run on local server
+   install all the npm files and run on local server :
     `npm install`
 
 ## Available Scripts
